@@ -36,8 +36,8 @@ A simple, top-down RPG template for Game Boy, built with GBDK.
 1. Install GBDK and ensure it's in your path (or update the Makefile with the correct path)
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/gb-rpg-template
-   cd gb-rpg-template
+   git clone https://github.com/crizmo/Game-Boy-RPG-Template
+   cd Game-Boy-RPG-Template
    ```
 
 ## Building
