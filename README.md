@@ -1,6 +1,6 @@
 # Game Boy RPG Template
 
-A simple, top-down RPG template for Game Boy, built with GBDK. This project provides a foundation for creating 2D role-playing games similar to early Pokémon titles.
+A simple, top-down RPG template for Game Boy, built with GBDK.
 
 ## Features
 
